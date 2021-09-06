@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/learnprogramming-frontend/static/css/main.cfb6629a.chunk.css",
+    "main.js": "/learnprogramming-frontend/static/js/main.c9dc856d.chunk.js",
+    "main.js.map": "/learnprogramming-frontend/static/js/main.c9dc856d.chunk.js.map",
+    "runtime-main.js": "/learnprogramming-frontend/static/js/runtime-main.2408c0cd.js",
+    "runtime-main.js.map": "/learnprogramming-frontend/static/js/runtime-main.2408c0cd.js.map",
+    "static/js/2.189d42fd.chunk.js": "/learnprogramming-frontend/static/js/2.189d42fd.chunk.js",
+    "static/js/2.189d42fd.chunk.js.map": "/learnprogramming-frontend/static/js/2.189d42fd.chunk.js.map",
+    "index.html": "/learnprogramming-frontend/index.html",
+    "static/css/main.cfb6629a.chunk.css.map": "/learnprogramming-frontend/static/css/main.cfb6629a.chunk.css.map",
+    "static/js/2.189d42fd.chunk.js.LICENSE.txt": "/learnprogramming-frontend/static/js/2.189d42fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2408c0cd.js",
+    "static/js/2.189d42fd.chunk.js",
+    "static/css/main.cfb6629a.chunk.css",
+    "static/js/main.c9dc856d.chunk.js"
+  ]
+}
